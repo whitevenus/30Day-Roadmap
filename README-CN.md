@@ -1,6 +1,6 @@
 # 30 天路线图
 
-**[英文文档](https://github.com/whitevenus/30Day-Roadmap/main/README.md)**
+**[英文文档](https://github.com/whitevenus/30Day-Roadmap/blob/main/README.md)**
 
 这是一份为期 30 天的 Web 开发学习路线图。
 
